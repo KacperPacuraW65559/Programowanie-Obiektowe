@@ -15,7 +15,7 @@ public class MainLab4 {
         b1.Wypisz();
     }
 
-//        Gatunek g1 = new Gatunek("Pies domowy", "Canis familiaris", "XD?", 37, 37, 74);
+//        Gatunek g1 = new Gatunek("Pies domowy", "Canis familiaris", "Udomowiony gatunek ssaka drapieżnego z rodziny psowatych", 37, 37, 74);
 //        g1.wypisz();
 //    }
 }
